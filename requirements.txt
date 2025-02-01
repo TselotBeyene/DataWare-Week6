@@ -1,7 +1,8 @@
 pandas
 numpy
-psycopg2
-python-dotenv
-dbt-postgres
-dbt-core
-telethon
+matplotlib
+jupyter
+seaborn
+streamlit
+unittest
+scikit-learn
